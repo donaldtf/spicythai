@@ -1,0 +1,103 @@
+.browsehappy {
+  margin: 0.2em 0;
+  background: #ccc;
+  color: #000;
+  padding: 0.2em 0;
+}
+
+body {
+  padding: 0;
+}
+
+.main {
+
+  background-color: #cc0000;
+}
+
+.facebooklink {
+  text-align: center;
+  font-size: 25px;
+  color:white;
+  text-decoration: none;
+
+}
+
+.jumbotron.myjumbo{
+  background: #262626;
+  color:white;
+}
+
+/* Everything but the jumbotron gets side spacing for mobile first views */
+.header,
+.marketing,
+.footer {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+/* Custom page header */
+.header {
+  border-bottom: 1px solid #e5e5e5;
+  margin-bottom: 10px;
+}
+/* Make the masthead heading the same height as the navigation */
+.header h3 {
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: 40px;
+  padding-bottom: 19px;
+}
+
+.reviews ul{
+  text-align: center;
+  font-size: 20px;
+  list-style-type: none;
+}
+
+.reviews a{
+  color: white;
+}
+
+/* Custom page footer */
+.footer {
+  padding-top: 19px;
+  color: #777;
+  border-top: 1px solid #e5e5e5;
+}
+
+.disabled {
+    pointer-events: none;
+    background: gray;
+}
+
+.container-narrow > hr {
+  margin: 30px 0;
+}
+
+.menu{
+  width: 75%;
+  height: 100%;
+}
+
+.menu-backdrop{
+  margin-top: 3%;
+  margin-top: 3%;
+  width: 100%;
+  text-align: center;
+  background: #262626;
+}
+
+/* Main marketing message and sign up button */
+.jumbotron {
+  text-align: center;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+  /* Space out the masthead */
+  .header {
+    margin-bottom: 30px;
+  }
+  /* Remove the bottom border on the jumbotron for visual effect */
+  .jumbotron {
+    border-bottom: 0;
+    }
